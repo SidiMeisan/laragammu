@@ -1,7 +1,0 @@
-
-[gammu]
-
-device = com9:
-connection = at115200
-
-
